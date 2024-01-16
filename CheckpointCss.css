@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+li{
+    color: aquamarine;
+    text-decoration: none;
+    display: inline;
+    margin-left: 50px;
+}
+img{
+    width: 250px;
+    height: 100px;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    padding: 20px;
+    float: right; 
+    display: inline;
+}
+.nav1{
+    background-color: aqua;
+}
+
+
+
